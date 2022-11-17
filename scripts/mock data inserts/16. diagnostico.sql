@@ -1,0 +1,10 @@
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (10, 2);
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (3, 8);
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (8, 4);
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (9, 5);
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (7, 10);
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (2, 6);
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (9, 2);
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (7, 1);
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (4, 8);
+insert into diagnostico (fk_usuario, fk_respuesta_cuestionario) values (7, 9);

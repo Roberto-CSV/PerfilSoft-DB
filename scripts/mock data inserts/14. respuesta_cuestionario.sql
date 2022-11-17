@@ -1,0 +1,10 @@
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (1, '30/8/2022');
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (2, '28/10/2022');
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (2, '5/10/2022');
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (7, '17/5/2022');
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (1, '1/12/2021');
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (2, '22/10/2022');
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (1, '26/4/2022');
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (4, '27/5/2022');
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (3, '20/7/2022');
+insert into respuesta_cuestionario (fk_cuestionario, fecha_desarrollo) values (4, '1/11/2022');

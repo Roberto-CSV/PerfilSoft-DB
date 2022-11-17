@@ -1,0 +1,10 @@
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (1, 'Veribet', 18);
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (2, 'Latlux', 42);
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (3, 'Namfix', 76);
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (4, 'Fix San', 10);
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (5, 'Stim', 57);
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (6, 'Tin', 44);
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (7, 'Hatity', 19);
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (8, 'Keylex', 5);
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (9, 'Zaam-Dox', 2);
+insert into seccion_cuestionario (fk_habilidad, seccion, estandar_puntuacion) values (10, 'Flowdesk', 79);

@@ -1,0 +1,10 @@
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (1, 5, 22);
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (7, 1, 50);
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (1, 1, 28);
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (10, 5, 62);
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (5, 5, 89);
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (7, 2, 80);
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (3, 5, 98);
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (6, 5, 55);
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (6, 4, 26);
+insert into diagnostico_rol_ingeniero (fk_diagnostico, fk_rol_ingeniero, porcentaje_similitud) values (10, 1, 23);
