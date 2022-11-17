@@ -1,0 +1,20 @@
+Tabla - Cantidad
+
+Rol_Usuario - 3
+Semestre - 10
+Usuario - 10
+Rol_Ingeniero - 5
+Tipo_Habilidad - 2
+Habilidad - 10
+Rol_Ingeniero_Habilidad - 20
+Cuestionario - 10
+Seccion_Cuestionario - 10
+Cuestionario_Seccion_Cuestionario - 50
+Pregunta - 100
+Opcion_Respuesta - 300
+Recomendacion - 100
+Respuesta_Cuestionario - 10
+Respuesta_Pregunta - 60
+Diagnostico - 10
+Diagnostico_Recomendacion - 30
+Diagnostico_Rol_Ingeniero - 10

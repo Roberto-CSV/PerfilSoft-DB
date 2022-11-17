@@ -1,0 +1,10 @@
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (10, 3, 'Olympie', 'Brabben', 'obrabben0@senate.gov', 'wEJ96EZRU', false);
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (7, 2, 'Zita', 'Antrag', 'zantrag1@jugem.jp', 'MlIyRX', false);
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (3, 2, 'Walliw', 'McCuis', 'wmccuis2@google.ca', 'g87DFU', true);
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (3, 3, 'Nowell', 'Paridge', 'nparidge3@fotki.com', 'E7Xt8JLUad8', true);
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (5, 2, 'Isacco', 'Michelin', 'imichelin4@last.fm', 'zTH5WnIMb9', false);
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (7, 3, 'Darill', 'Toth', 'dtoth5@latimes.com', 'gF19GXXRgTBB', true);
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (8, 2, 'Idaline', 'Babon', 'ibabon6@oracle.com', '2jeBip5Hv', true);
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (7, 1, 'Arlana', 'Ashplant', 'aashplant7@google.de', 'KZqTT1', false);
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (1, 1, 'Brandy', 'Assante', 'bassante8@freewebs.com', 'O1F7MD', true);
+insert into usuario (fk_semestre, fk_rol_usuario, nomber, apellido, correo, clave, activo) values (10, 3, 'Jammal', 'Cockrill', 'jcockrill9@tumblr.com', '3VMank65', true);

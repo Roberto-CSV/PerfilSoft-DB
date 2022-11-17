@@ -1,0 +1,10 @@
+insert into semestre (semestre) values (1);
+insert into semestre (semestre) values (2);
+insert into semestre (semestre) values (3);
+insert into semestre (semestre) values (4);
+insert into semestre (semestre) values (5);
+insert into semestre (semestre) values (6);
+insert into semestre (semestre) values (7);
+insert into semestre (semestre) values (8);
+insert into semestre (semestre) values (9);
+insert into semestre (semestre) values (10);
